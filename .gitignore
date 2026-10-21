@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+dist/
+
+# 로컬 미리보기 설정
+.claude/
